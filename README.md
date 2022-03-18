@@ -11,7 +11,7 @@ The VBA code loop has been refactored in this project to analyze a greater numbe
 
 ## Comparing Stock Performance
 
-Through analysis of the years 2017 and 2018, we can see a average trend of better performance in 2017 for the stock tickers included in our dataset. The notable exception to this trend is stock ticker "RUN", which resulted in a Total Annual Return for 2017 of 5.5%, while the Total Annual Return for stock ticker "Run" in the year 2018 resulted in an 84.0% increase in value.
+Through analysis of the years 2017 and 2018, we can see a average trend of better performance in 2017 for the stock tickers included in our dataset. The notable exception to this trend is stock ticker "RUN", which resulted in a Total Annual Return for 2017 of 5.5%, while the Total Annual Return for stock ticker "RUN" in the year 2018 resulted in an 84.0% increase in value.
 
 ![Stock Performance 2017](https://github.com/JorMerr/stock-analysis/blob/main/Resources/Stock_Performance_2017.PNG)
 
@@ -195,6 +195,8 @@ As can be seen when comparing the refactored code, we used the `tickerIndex` var
 ![Refactored Code runtime for 2018:](https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 ![Original Script runtime for 2018:](https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_original_2018.PNG)
+
+The refactoring of our original VBA Script has resulted in an approximate average decrease of runtime of 82.67%, or an approximate average increase in efficiency of 478%. A substantial difference which can have a significant impact on larger datasets.
 
 
 ---
