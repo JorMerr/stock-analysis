@@ -5,11 +5,9 @@ The VBA code loop has been refactored in this project to analyze a greater numbe
 
 # Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
-Refactored Code runtime for 2017:
-https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG
+![Refactored Code runtime for 2017:](https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
-Refactored Code runtime for 2018:
-https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG
+![Refactored Code runtime for 2018:](https://github.com/JorMerr/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
 
 
 # Summary:
