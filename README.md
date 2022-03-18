@@ -7,7 +7,7 @@ The VBA code loop has been refactored in this project to analyze a greater numbe
 
 
 ---
-# Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+# Results: 
 
 ## Comparing Stock Performance
 
